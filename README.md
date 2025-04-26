@@ -1,37 +1,31 @@
+<h5 align="center">
+  Passionate full-stack web developer and software engineering student, driven by a relentless eagerness to master new technologies 💪
+</h5>
+
+##
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="50" src="https://media.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif"  />
 </div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamedkabel" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo - mohamedkabel"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo - mohamedkabel"  />
   </a>
 </div>
-
-###
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=xmkabel&color=blue" alt="Profile Views">
+  <img height="50" src="https://media.tenor.com/MUBfaK_k9O8AAAAj/habbo-habbohotel.gif"/>
 </div>
 
-<h1 align="center">Hello There!</h1>
+##
 
-###
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=xmkabel&color=blue&style=for-the-badge" alt="Profile Views">
+  <img height="35" src="https://media.tenor.com/kyMt4Toyv1wAAAAi/emoji-emojis.gif"/>
+</div>
 
-<h3 align="center">This is Mohamed Kabel</h3>
+##
 
-###
-
-<p align="center">- 🔭 I’m working as a Full Stack Web Developer<br>- 📚 I'm currently learning Software Engineering</p>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
+<h3 align="center">My Toolkit 🧰</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="36" alt="react logo"  />
@@ -82,10 +76,6 @@
 ###
 
 <h3 align="center">Contributions 😎</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=xmkabel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
