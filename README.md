@@ -11,6 +11,11 @@
   <a href="https://www.linkedin.com/in/mohamedkabel" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo - mohamedkabel"  />
   </a>
+  
+</div>
+ 
+<div align="center">
+  <img height="25" src="https://img.shields.io/badge/Followers-+1.7K-%230a66c2"/>
 </div>
 <div align="center">
   <img height="50" src="https://media.tenor.com/MUBfaK_k9O8AAAAj/habbo-habbohotel.gif"/>
