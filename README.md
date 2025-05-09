@@ -83,7 +83,7 @@
 <h3 align="center">Contributions 😎</h3>
 
 <div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=xmkabel&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D&ring=57CC98&background=50%2C12577C%2C07212F&border=37A3A5&currStreakNum=42C3C6&fire=83EE9C&sideNums=37A3A5&hide_longest_streak=true" height="230" alt="streak graph"  />
+  <img src="https://git-hub-streak-stats.vercel.app?user=xmkabel&theme=whatsapp-light&date_format=j%20M%5B%20Y%5D&ring=57CC98&background=50%2C12577C%2C07212F&border=37A3A5&currStreakNum=42C3C6&fire=83EE9C&sideNums=37A3A5&hide_longest_streak=true" height="230" alt="streak graph"  />
 </div>
 
 ###
