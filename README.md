@@ -15,7 +15,7 @@
 </div>
  
 <div align="center">
-  <img height="25" src="https://img.shields.io/badge/Followers-+1.7K-%230a66c2"/>
+  <img height="25" src="https://img.shields.io/badge/Followers-+1.8K-%230a66c2"/>
 </div>
 <div align="center">
   <img height="50" src="https://media.tenor.com/MUBfaK_k9O8AAAAj/habbo-habbohotel.gif"/>
